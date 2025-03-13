@@ -1,3 +1,6 @@
+# Link para o protótipo inicial do projeto
+https://ptrsantos.github.io/prototipo-pi/
+
 # FrontendPi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
